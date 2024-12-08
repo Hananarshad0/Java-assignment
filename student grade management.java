@@ -75,12 +75,12 @@ class Student {
 
 public class GradeManager {
     public static void main(String[] args) {
-        Student student1 = new Student("Anaan", 101);
+        Student student1 = new Student("yameen", 101);
         student1.addGrade(85);
         student1.addGrade(90);
         student1.addGrade(78);
 
-        Student student2 = new Student("Basit", 102);
+        Student student2 = new Student("zaid", 102);
         student2.addGrade(88);
         student2.addGrade(92);
         student2.addGrade(80);
