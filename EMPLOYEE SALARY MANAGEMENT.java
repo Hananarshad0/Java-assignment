@@ -37,8 +37,8 @@ class Employee{
 public class Salary {
  public static void main(String[] args) {
      
-     Employee emp1 = new Employee("Anaan", 101, 30000, 5000, 2000);
-     Employee emp2 = new Employee("Burhaan", 102, 40000, 6000, 3000);
+     Employee emp1 = new Employee("yameen", 101, 30000, 5000, 2000);
+     Employee emp2 = new Employee("zaid", 102, 40000, 6000, 3000);
 
      
      emp1.calculateGrossSalary();
